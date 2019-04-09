@@ -167,5 +167,15 @@ var axel = [
 "europeanvoice.com",
 "sports.pl",
 "fakt.pl",
-"blic.rs"
+"blic.rs",
+"businessinsider.pl",
+"ofeminin.pl",
+"medonet.pl",
+"plejada.pl",
+"noizz.pl",
+"przegladsportowy.pl",
+"verdykt.pl",
+"agdlab.pl",
+"pclab.pl",
+"zapytaj.pl"
 ];
