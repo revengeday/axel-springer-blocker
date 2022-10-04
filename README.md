@@ -1,4 +1,5 @@
-# Axel Springer Blocker (ABS)
+# Axel Springer Blocker (ABS) [Discontinued]
+
 Axel Springer Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera, Yandex, Vivaldi etc.
 
 ## Easy installation guide for Chromium based browsers 
@@ -28,3 +29,8 @@ Here is an example for Google Chrome:
 }
 ```
 -  Validate the files and have fun blocking some websites
+
+## Discontinued
+
+This plugin is no longer under development and has been discontinued. 
+Due to the manifest changes which come into effect in 2023, this plugin will no longer work on Google Chrome. 
